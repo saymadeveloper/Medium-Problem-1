@@ -1,0 +1,75 @@
+.app-class{
+    padding: 0px 10px 0px 10px;
+}
+.margin-right-20{
+    margin-right: 20px;
+}
+.articles-margin{
+    margin-right: 170px;
+}
+.margin-right-7{
+    margin-right: 7px;
+}
+.search-input-width{
+    width: 25rem;
+}
+.link-color{
+    text-decoration: none;
+    color: #444;
+}
+.link-color:hover{
+    color: #222;
+    border-bottom: 1px solid;
+}
+.list{
+    padding: 0px 0px 10px 33px;
+}
+.offcanvas-backdrop.show {
+    opacity: 0.02 !important;
+}
+.offcanvas-start {
+    width: 250px !important;
+}
+.offcanvas-body-div{
+    padding: 30px 60px;
+}
+.offcanvas-padding{
+    padding: 30px 25px;
+}
+.offcanvas-icon-fs {
+    font-size: 16px !important;
+    margin-right: 14px;
+}
+.offcanvas-search-padding{
+    padding: 10px 25px;
+}
+.content-margin{
+    margin-right: 145px;
+}
+.content-title{
+    text-decoration: none;
+    color: #1a0dab;
+}
+.content-title:hover{
+    border-bottom: 1px solid;
+    color: #1a0dab;
+}
+.content-list{
+    display: -webkit-box !important;
+}
+.content-list li{
+    margin-right: 10px;
+}
+.content-list li i{
+    margin-right: 5px;
+    color: #1a0dab;
+}
+.content-list .link-color{
+    color: #1a0dab;
+}
+.related-list .link-color{
+    color: #1a0dab;
+}
+.paging-nav{
+    padding-left: 60px ;
+}
